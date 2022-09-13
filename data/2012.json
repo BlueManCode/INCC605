@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "name": "USA",
+      "location": [38.9072, -77.0369],
+      "num_student": 55
+    },
+    {
+      "name": "CAN",
+      "location": [45.4215, -75.6972],
+      "num_student": 10
+    },
+    {
+      "name": "IND",
+      "location": [28.1041, 77.1025],
+      "num_student": 9
+    },
+    {
+      "name": "ESP",
+      "location": [40.4168, -3.7038],
+      "num_student": 10
+    },
+    {
+      "name": "GBR",
+      "location": [51.5072, -0.1276],
+      "num_student": 5
+    },
+    {
+      "name": "PAK",
+      "location": [33.6844, 73.0479],
+      "num_student": 2
+    },
+    {
+      "name": "COL",
+      "location": [4.711, -74.0721],
+      "num_student": 20
+    },
+    {
+      "name": "JPN",
+      "location": [35.6762, 139.6503],
+      "num_student": 2
+    }
+  ]
+}

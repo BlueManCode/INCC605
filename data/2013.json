@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "name": "USA",
+      "location": [38.9072, -77.0369],
+      "num_student": 120
+    },
+    {
+      "name": "CAN",
+      "location": [45.4215, -75.6972],
+      "num_student": 200
+    },
+    {
+      "name": "IND",
+      "location": [28.1041, 77.1025],
+      "num_student": 400
+    },
+    {
+      "name": "ESP",
+      "location": [40.4168, -3.7038],
+      "num_student": 16
+    },
+    {
+      "name": "GBR",
+      "location": [51.5072, -0.1276],
+      "num_student": 16
+    },
+    {
+      "name": "JPN",
+      "location": [35.6762, 139.6503],
+      "num_student": 4
+    },
+    {
+      "name": "GNQ",
+      "location": [3.755, 8.7821],
+      "num_student": 1
+    },
+    {
+      "name": "CHN",
+      "location": [39.9042, 116.4074],
+      "num_student": 10
+    },
+    {
+      "name": "EGY",
+      "location": [30.0444, 31.2357],
+      "num_student": 15
+    },
+    {
+      "name": "QAT",
+      "location": [25.2854, 51.531],
+      "num_student": 8
+    },
+    {
+      "name": "PRK",
+      "location": [39.0738, 125.8198],
+      "num_student": 5
+    }
+  ]
+}

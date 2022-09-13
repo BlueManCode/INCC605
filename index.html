@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="author" content="Matthew Green" />
+    <meta
+      name="linkedin:site"
+      content="https://www.linkedin.com/in/matthew-green-49700616a"
+    />
+    <meta name="twitter:site" content="@MatthewGreen777" />
+    <meta
+      name="description"
+      content="This is a map that gives info on the origins of students in the INCC program"
+    />
+    <meta property="og:title" content="MLL-605 Website" />
+    <meta property="og:locality" content="UMBC" />
+    <meta property="og:region" content="MD" />
+    <meta property="og:country_name" content="USA" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <title>MLL-605 Website</title>
+    <link rel="stylesheet" type="text/css" href="./src/index.css" />
+    <script src="./src/index.js"></script>
+    <script src="./src/generateMap.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
+      integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
+      crossorigin=""
+    />
+    <script
+      src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
+      integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+      crossorigin=""
+    ></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="dropdown_container">
+        <select name="cars" id="years"> </select>
+      </div>
+      <div id="map"></div>
+    </div>
+  </body>
+</html>

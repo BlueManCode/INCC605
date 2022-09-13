@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  overflow: hidden;
+}
+
+#map {
+  height: 500px;
+}
+
+.dropdown_container {
+  padding: 5px;
+  border-style: none;
+  position: fixed;
+  z-index: 10000;
+}
